@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*so the tea is, this person*
+
+**dislikes people**
+
+_ummm **quite** a lot_
